@@ -1,4 +1,4 @@
-# Device configuration for XiaoMi MiPad Tablet
+# Device configuration for Xiaomi MiPad Tablet
 
 ## Spec Sheet
 | Feature                 | Specification                     |
